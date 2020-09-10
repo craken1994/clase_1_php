@@ -33,6 +33,6 @@
     $nombres_completos = $nombre . " " . $apellido_pat . " " .  $apellido_mat;
     echo $nombres_completos;
 
-
+    echo "<hr>"; //agregando línea separadora
 
 ?>
